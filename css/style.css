@@ -110,6 +110,7 @@ figcaption {
   line-height: 0;
 }
 
+/*media*/
 img, video, audio {
   max-width: 100%;
 }
